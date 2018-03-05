@@ -1,0 +1,34 @@
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csprojResolveAssemblyReference.cache
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.pdb
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.pdb
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.pdb
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.pdb
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.pdb
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.pdb
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapperTests.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\bin\Debug\AutoMapper.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.csprojResolveAssemblyReference.cache
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapperTests\obj\Debug\AutoMapperTests.pdb

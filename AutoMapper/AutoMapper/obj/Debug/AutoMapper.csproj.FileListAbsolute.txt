@@ -1,0 +1,22 @@
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapper\obj\Debug\AutoMapper.dll
+c:\users\venheretsoleksii\documents\visual studio 2015\Projects\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb
+C:\Users\user\Downloads\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Users\user\Downloads\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\AutoMapper\AutoMapper\obj\Debug\AutoMapper.dll
+C:\Users\user\Downloads\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb
+C:\Users\user\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Users\user\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.dll
+C:\Users\user\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb

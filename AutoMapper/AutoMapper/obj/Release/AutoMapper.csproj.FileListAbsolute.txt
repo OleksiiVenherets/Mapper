@@ -1,0 +1,5 @@
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\bin\Release\AutoMapper.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\bin\Release\AutoMapper.pdb
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Release\AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Release\AutoMapper.dll
+C:\Users\VenheretsOleksii\Desktop\AutoMapper\AutoMapper\obj\Release\AutoMapper.pdb
